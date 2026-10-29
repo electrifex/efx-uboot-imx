@@ -1,5 +1,5 @@
 /*
- * Copyright 2025 NXP
+ * Copyright 2026 Electrifex
  *
  * SPDX-License-Identifier:	GPL-2.0+
  */
